@@ -18,7 +18,7 @@
 
 
 
-**Здесь должна быть обязательная ссылка на ваш файл в вашем форке вида https://github.com/Hexlet-Source/our-stories/blob/master/stories/TEMPLATE.md**
+**https://github.com/fromSimf/our-stories/blob/master/stories/myStory.md**
 
 ---
 
