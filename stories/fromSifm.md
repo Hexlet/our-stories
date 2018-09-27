@@ -36,7 +36,7 @@
 
 
 
-**https://github.com/fromSimf/our-stories/blob/master/stories/myStory.md**
+**https://github.com/fromSimf/our-stories/blob/master/stories/fromSifm.md**
 
 ---
 
