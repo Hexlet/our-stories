@@ -33,6 +33,7 @@
 
 
 > ![The Soma cube polycubes](http://b3d.drjimo.net/wp-content/uploads/2016/01/7SomaPieces.png)
+
 > Art is solving problems that cannot be formulated before they have been solved.
 '[Piet Hein](https://en.wikiquote.org/wiki/Piet_Hein#Quotes)'
 
