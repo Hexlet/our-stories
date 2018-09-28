@@ -1,6 +1,6 @@
 # Art is solving problems 
-## that cannot be formulated before they have been solved. 
-### The shaping of the question is part of the answer.
+## That cannot be formulated before they have been solved 
+### The shaping of the question is part of the answer
 
 Полтора года назад у меня родилась дочь. Работа позволяла проводить с ней практически все время, отлучаясь на день-два. Это конечно плюс, но свободного времени у меня не оставалось **вообще**, т.е. — совсем :-) 
 
