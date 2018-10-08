@@ -98,6 +98,6 @@
 
 <a href="https://ibb.co/fs4SZK"><img src="https://preview.ibb.co/eqMkMz/c_J5_IGh4_F29_Y.jpg" alt="c_J5_IGh4_F29_Y" border="0"></a>
 
-https://github.com/Hexlet-Source/our-stories/blob/master/stories/little_story.md
+https://github.com/GlowBlood/our-stories/blob/master/stories/little_story.md
 
 ### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/GlowBlood/our-stories) и поставьте Star в верхнем правом углу. Спасибо!
