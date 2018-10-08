@@ -21,8 +21,8 @@
 
 <p>Возраст только в глазах окружающих. Мое личное восприятие нового в моей жизни не изменилось. </p>
 
-       https://github.com/svil1502/our-stories/blob/master/stories/svil.md
-      
+       **https://github.com/svil1502/our-stories/blob/master/stories/svil.md**
+    
 ---
 
 ### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — поставьте Star в верхнем правом углу в моём форке (по ссылке выше). Спасибо!
