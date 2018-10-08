@@ -21,7 +21,7 @@
 
 <p>Возраст только в глазах окружающих. Мое личное восприятие нового в моей жизни не изменилось. </p>
 
-       **https://github.com/svil1502/our-stories/blob/master/stories/svil.md**
+       https://github.com/svil1502/our-stories/blob/master/stories/svil.md
     
 ---
 
