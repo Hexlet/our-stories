@@ -52,7 +52,7 @@ beleksprint.by . Просили использовать PageBuilde'r, что я
 ОПЦИОНАЛЬНО: ссылки на сайты или ваши профили в соц. сетях.
 - [Сайт типографии](http://beleksprint.by)
 - [Сайт добавок](http://euroin.by)
-- [http://tik](http://tikitour.by)
+- [Сайт тура-агента](http://tikitour.by)
 
 **Здесь должна быть обязательная ссылка на ваш файл в вашем форке вида https://github.com/Hexlet-Source/our-stories/blob/master/stories/zoomieos.md**
 
