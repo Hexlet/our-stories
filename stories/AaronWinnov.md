@@ -44,6 +44,8 @@
 
 Возвращаться было нельзя - слишком много людей не верило в меня, что я останусь надолго на Бали. Решил зарабатывать в туристическом направлении. Возил экскурсии, обучал вождению на скутере, управлял гостиничным бизнесом на основе вилл на протяжении 3 лет. Отличное было время, почти полностью запечатлел в [свом Инстаграме](https://www.instagram.com/solncebro/?hl=ru). Выбрался из "ямы", но понимал, что все это временно.
 
+![Передаю опыт](https://lh3.googleusercontent.com/HEjv1W_YVtx2Hv1cSY93NVbiZXq4i4QlCHcNwxvLpCdfqI4AdF3RATcxVHRm06zgACuwIWrfvQ5dCy4td58TjOEteYcfFeCjlP2eCHu1PaVen8lCvY5sHlnN8DqJwhWXaW5xGC1Ffwtc3AGp-rC2T6-mBV-P1XbRtn0T4Uw_DuL6VDDl3509Ayl6M7KkVh9SjI-9BHZIBskGUJnxggyiHspadJDDmWgQSBulHG6UtOI5fqzO5RM-a6RseMc5ISLCZjspN5DTDruJ6Wi3xLRJE6m5pv66AarcwIpxG9DsNs17HL4dHXHZ7y05Yal80_lZI4Xcapde_PMQ45Ew6w981S7YqSeHaEy1fybVSZ8LRh3unv7lKNSr9zxUXk1V09qn3BHJm1OfjpIg9FFMPTwIBwIDpMOmAZypX1mK8Nm1htZIpvO8XKG3DNq6AFrP5JODiirFW0EqwW0vaHLBScXFbHJN3KByiab6DjmzGDowHSHohPVDZ9i73OtR3LXQQPWPYsqC61t9YGcDkzcRirmKRNZ7p-3rtpKytXbw8_6sfrK2Vi9xlQ3IdyqsoEXEwJncbtGNPiTmZ8hql35V0mYSxPCSodbij7RNOjpAMUXs2OojIIiCnlkBr7S0CnpKy2Me=w2454-h1380-no)
+
 
 ### 2017
 Начался криптовалютный бум. Решил вложить свои накопления в майнинг. Один из друзей в РФ поддержал, еще кредитов набрал. Видеокарт уже не было ни в РФ, ни в Германии - жуткий ажиотаж, все уже скупили. Пришлось искать в Индонезии. Нашел, отправил в РФ, друг собрал, я настраивал все удаленно - все же не зря детство провел, когда батя "500 игр в 1" подарил.
