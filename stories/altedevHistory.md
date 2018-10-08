@@ -24,7 +24,9 @@
 Моя история на этом заканчивается. Так что вперёд! Ваша очередь **действовать!**
 
 Спасибо за внимание!
+
 https://github.com/Altedev/history
+
 https://github.com/Altedev/our-stories/edit/master/stories/altedevHistory.md
 
 ---
