@@ -23,7 +23,11 @@
 
 Гонясь за очередной порцией эндорфина, я достигну своей мечты - мечты стать тру программистом. 
 
+https://github.com/MaxiMir/our-stories/blob/master/stories/MaxiMir.md
+ 
+---
 
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/MaxiMir/our-stories/blob/master/stories/MaxiMir.md) и поставьте Star в верхнем правом углу. Спасибо!
 
 
 
