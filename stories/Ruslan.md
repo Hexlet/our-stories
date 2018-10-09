@@ -60,7 +60,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Спасибо за + в дополнительную уверенность в моем правильном выборе. Остальное – дело времени и работы над собой.  
 &nbsp;&nbsp;&nbsp;&nbsp;Всем учащимся здесь – веры в себя и результативной учебы !)
 
-**https://github.com/TyrionFront/our-stories/edit/master/stories/Ruslan.md**
+**https://github.com/TyrionFront/our-stories/blob/master/stories/Ruslan.md**
 
 ---
 
