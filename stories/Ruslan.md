@@ -1,6 +1,6 @@
 # От таблетки к биту
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/TyrionFront/our-stories/edit/master/stories/Ruslan.md) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/TyrionFront/our-stories/blob/master/stories/Ruslan.md) и поставьте Star в верхнем правом углу. Спасибо!
 
 ---
 
@@ -67,4 +67,4 @@
 
 ---
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/TyrionFront/our-stories/edit/master/stories/Ruslan.md) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/TyrionFront/our-stories/blob/master/stories/Ruslan.md) и поставьте Star в верхнем правом углу. Спасибо!
