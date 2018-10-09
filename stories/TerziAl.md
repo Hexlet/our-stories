@@ -38,7 +38,7 @@ P. S: признаться, летом на волне вдохновения я
 
 - [Мой ФБ](https://facebook.com/yargawriter)
 
-Ссылка на мою историю: https://github.com/Hexlet-Source/our-stories/blob/master/stories/TerziAl.md
+Ссылка на мою историю: https://github.com/YolgaDev/our-stories/blob/master/stories/TerziAl.md
       
 ---
 
