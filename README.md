@@ -2,9 +2,25 @@
 
 !["обложка"](cover.jpg)
 
-Вы ищете работу? Возможно, свою первую работу программистом? Напишите интересную историю о том, как и почему вы стали изучать программирование, как выглядит ваш процесс обучения и роста. Авторы трёх историй, набравших больше всего «старов» (звёздочек) на Гитхабе, получат призы!
+Вы ищете работу? Возможно, свою первую работу программистом? Напишите интересную историю о том, как и почему вы стали изучать программирование, как выглядит ваш процесс обучения и роста. Авторы трёх историй, набравших больше всего «старов» (звёздочек) на Гитхабе, получат призы! [Перейти на красочную промо-страницу конкурса →](http://mystory.hexlet.io/)
 
-[Перейти на красочную промо-страницу конкурса →](http://mystory.hexlet.io/)
+## Истории
+(последнее обновление 9.10.2018, 11:00)
+1. [Моя Санта-Барбара](https://github.com/solncebro/our-stories/blob/master/stories/AaronWinnov.md)
+2. [Обучение программированию после 50-ти](https://github.com/AnatolMeshalkin/our-stories/blob/master/stories/AnatolMeshalkin.md)
+3. [Почему работа программиста более привлекательна чем работа специалиста по информационной безопасности (субъективно)](https://github.com/kitXIII/our-stories/blob/master/stories/KitStory.md)
+4. [Кем я себя не видел через 5 лет](https://github.com/MacOSO/our-stories/blob/master/stories/MacOSO.md)
+5. [Программируем-с](https://github.com/REGISTOOOOOO/our-stories/blob/master/stories/REGISTOOOOOO.md)
+6. [The shaping of the question is part of the answer](https://github.com/Searge/our-stories/blob/master/stories/Searge.md)
+7. [Вторая попытка](https://github.com/kamil861120/our-stories/blob/master/stories/SecondChance.md)
+8. [Компьютерная империя наносит ответный удар!](https://github.com/vitaclear/our-stories/blob/master/stories/Vita.md)
+9. [C’est la vie](https://github.com/XenaN/our-stories/blob/master/stories/Xena.md)
+10. ["Чтобы добиться многого, необходимы две вещи:план и недостаток времени". Леонард Бернстайн.](https://github.com/jurassic-period/our-stories/blob/master/stories/fromSifm.md)
+11. [Ленивый питон](https://github.com/s4lat/our-stories/blob/master/stories/lazyPython.md)
+12. [Всем привет, я - гуманитарий](https://github.com/GlowBlood/our-stories/blob/master/stories/little_story.md)
+13. [Путь длинною в 30 лет или...](https://github.com/ivcoderx/our-stories/blob/master/stories/long-road.md)
+14. [Как из-за ошибки в одной букве я не стал программистом. Моя подробная история :)](https://github.com/eidolonzx/our-stories/blob/master/stories/my_wild_story_MS.md)
+15. [Никогда не поздно, или труд побеждает талант](https://github.com/Mrtopuh/our-stories/blob/master/stories/never_too_late.md)
 
 ## Призы
 
