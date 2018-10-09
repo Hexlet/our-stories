@@ -4,7 +4,7 @@
 
 ---
 
-![](github.com/YolgaDev/Crow/blob/master/Poster Java.jpg?raw=true) 
+![](https://github.com/YolgaDev/our-stories/blob/master/stories/images/Poster%20Java.jpg?raw=True) 
 
 Всем привет! Меня зовут Александр, мне почти 24, и я изучаю программирование. Пришёл я к этому не так давно и быстро, как хотелось бы. 
 
