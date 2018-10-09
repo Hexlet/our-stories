@@ -34,9 +34,9 @@
 
 P. S: признаться, летом на волне вдохновения я даже сверстал себе симпатичный плакат с этим лозунгом (правда, на инглише) и распечатал, а также заказал два значка с логотипом Java (какой у меня в профиле), чтобы носить на груди))). Мотивирует.
 
-- [Мой ВК](vk.com/ahmyolen) 
+- [Мой ВК](https://vk.com/ahmyolen) 
 
-- [Мой ФБ](facebook.com/yargawriter)
+- [Мой ФБ](https://facebook.com/yargawriter)
 
 Ссылка на мою историю: github.com/Hexlet-Source/our-stories/blob/master/stories/TEMPLATE.md
 
