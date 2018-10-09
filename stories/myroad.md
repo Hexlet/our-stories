@@ -19,7 +19,7 @@
 
 
 
-https://github.com/maximoto83/our-stories/edit/master/stories/TEMPLATE.md
+https://github.com/maximoto83/our-stories/edit/master/stories/myroad.md
 
 ---
 
