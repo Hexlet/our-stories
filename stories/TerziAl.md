@@ -38,8 +38,8 @@ P. S: признаться, летом на волне вдохновения я
 
 - [Мой ФБ](https://facebook.com/yargawriter)
 
-Ссылка на мою историю: github.com/Hexlet-Source/our-stories/blob/master/stories/TEMPLATE.md
-
+Ссылка на мою историю: github.com/Hexlet-Source/our-stories/blob/master/stories/TerziAl.md
+      
 ---
 
 ### Эта история участвует в [конкурсе](mystory.hexlet.io) от [Хекслета](ru.hexlet.io). Если вам понравилось — посетите [мой репозиторий](github.com/Hexlet/our-stories) и поставьте Star в верхнем правом углу. Спасибо!
