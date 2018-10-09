@@ -30,5 +30,5 @@
 
 Хекслет, спасибо за создание такого образовательного портала! Вперёд!
 
-https://github.com/zelenina33/our-stories/new/master/stories/zelenina33.md
+https://github.com/zelenina33/our-stories/blob/master/stories/Zelenina33.md
 
