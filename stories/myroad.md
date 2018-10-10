@@ -23,7 +23,7 @@
 
 
 
-(https://github.com/maximoto83/our-stories/edit/master/stories/myroad.md)
+(https://github.com/maximoto83/our-stories/blob/master/stories/myroad.md)
 
 ---
 
