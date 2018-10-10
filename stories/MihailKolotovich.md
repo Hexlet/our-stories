@@ -1,6 +1,6 @@
 # Приход в программирование из вёрстки
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/k2miha/our-stories/edit/master/stories/MihailKolotovich.md) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/k2miha/our-stories/blob/master/stories/MihailKolotovich.md) и поставьте Star в верхнем правом углу. Спасибо!
 
 ---
 ![](https://assets.htmlacademy.ru/img/unknown-raccoon.v4.svg)
@@ -35,4 +35,4 @@
 
 ---
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/k2miha/our-stories/edit/master/stories/MihailKolotovich.md) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/k2miha/our-stories/blob/master/stories/MihailKolotovich.md) и поставьте Star в верхнем правом углу. Спасибо!
