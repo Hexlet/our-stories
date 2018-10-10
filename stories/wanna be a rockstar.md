@@ -47,6 +47,6 @@
 ### PS
 Дружище, если ты добрасля до этого места, то, видимо, тебе действительно стали интересны мои мысли. Поэтому осмелюсь поделиться с тобой еще одной. Я считаю, что в современном мире программисты, как рок-звезды из 70-80-х годов прошлого века. И я не про "sex, drugs & rock'n'roll", хотя некоторым, возможно, и нравится такой подход. Сейчас программисты могут влиять на сознание людей через свои проекты. Точно так же, как целое поколение выросло на бессмертных хитах AC/DC, Doors, Aerosmith, Led Zeppelin, Pink Floyd и многих других. Так и сейчас есть миллионы фанатов игр Blizzard и Valve, продуктов Adobe и Autodesk, которые нашли для себя в них что-то интересное, полезное и поучительное. Это отличная возможность сделать мир чуточку лучше. И чёрт возьми, I wanna be a rockstar!
 
-Ссылка на мою историю ![https://github.com/karasino/our-stories/blob/master/stories/wanna%20be%20a%20rockstar.md](https://github.com/karasino/our-stories/blob/master/stories/wanna%20be%20a%20rockstar.md)
+Ссылка на мою историю [https://github.com/karasino/our-stories/blob/master/stories/wanna%20be%20a%20rockstar.md](https://github.com/karasino/our-stories/blob/master/stories/wanna%20be%20a%20rockstar.md)
 
 ### Это история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/karasino/our-stories) и поставьте Star в верхнем правом углу Спасибо!
