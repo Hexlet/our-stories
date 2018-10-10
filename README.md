@@ -21,6 +21,9 @@
 13. [Путь длинною в 30 лет или...](https://github.com/ivcoderx/our-stories/blob/master/stories/long-road.md)
 14. [Как из-за ошибки в одной букве я не стал программистом. Моя подробная история :)](https://github.com/eidolonzx/our-stories/blob/master/stories/my_wild_story_MS.md)
 15. [Никогда не поздно, или труд побеждает талант](https://github.com/Mrtopuh/our-stories/blob/master/stories/never_too_late.md)
+16. [Endorphins](https://github.com/MaxiMir/our-stories/blob/master/stories/MaxiMir.md)
+17. [Если бы не одно но...Мне 47](https://github.com/svil1502/our-stories/blob/master/stories/svil.md)
+18. [От таблетки к биту](https://github.com/TyrionFront/our-stories/blob/master/stories/Ruslan.md)
 
 ## Призы
 
