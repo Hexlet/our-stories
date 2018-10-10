@@ -1,6 +1,6 @@
 # Тысяча внезапных озарений
 
-### Это история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/karasino/our-stories) и поставьте Star в верхнем правом углу Спасибо!
+### Это история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/karasino/our-stories) и поставьте Star в верхнем правом углу. Спасибо!
 
 ---
 
@@ -49,4 +49,4 @@
 
 Ссылка на мою историю [https://github.com/karasino/our-stories/blob/master/stories/wanna%20be%20a%20rockstar.md](https://github.com/karasino/our-stories/blob/master/stories/wanna%20be%20a%20rockstar.md)
 
-### Это история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/karasino/our-stories) и поставьте Star в верхнем правом углу Спасибо!
+### Это история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/karasino/our-stories) и поставьте Star в верхнем правом углу. Спасибо!
