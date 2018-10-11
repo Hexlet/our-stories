@@ -29,7 +29,7 @@
 21. [Тысяча внезапных озарений](https://github.com/karasino/our-stories/blob/master/stories/wanna%20be%20a%20rockstar.md)
 22. [Как я нашёл себя в Java](https://github.com/YolgaDev/our-stories/blob/master/stories/TerziAl.md)
 23. [Write less, do more](https://github.com/SmAlVad/our-stories/blob/master/stories/meine-geschichte.md)
-24. [Мамы разные нужны, мамы разные важны!]((https://github.com/Zelenina33/our-stories/blob/master/stories/Zelenina33.md)
+24. [Мамы разные нужны, мамы разные важны!](https://github.com/Zelenina33/our-stories/blob/master/stories/Zelenina33.md)
 
 ## Призы
 
