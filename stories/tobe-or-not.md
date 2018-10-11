@@ -24,7 +24,7 @@
 
 - [My Instagram](https://www.instagram.com/natawik/)
 - [My twitter](https://twitter.com/natawik)
-- [My FB](https://www.facebook.com/natalya.babich.148)
+- [My VK](https://vk.com/natalya_babich)
  
 **https://github.com/natawik/our-stories/blob/master/stories/tobe-or-not.md**
 
