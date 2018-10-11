@@ -24,6 +24,12 @@
 16. [Endorphins](https://github.com/MaxiMir/our-stories/blob/master/stories/MaxiMir.md)
 17. [Если бы не одно но...Мне 47](https://github.com/svil1502/our-stories/blob/master/stories/svil.md)
 18. [От таблетки к биту](https://github.com/TyrionFront/our-stories/blob/master/stories/Ruslan.md)
+19. [Где-то 7 лет назад!](https://github.com/ZoomieOS/our-stories/blob/master/stories/zoomieos.md)
+20. [Приход в программирование из вёрстки](https://github.com/k2miha/our-stories/blob/master/stories/MihailKolotovich.md)
+21. [Тысяча внезапных озарений](https://github.com/karasino/our-stories/blob/master/stories/wanna%20be%20a%20rockstar.md)
+22. [Как я нашёл себя в Java](https://github.com/YolgaDev/our-stories/blob/master/stories/TerziAl.md)
+23. [Write less, do more](https://github.com/SmAlVad/our-stories/blob/master/stories/meine-geschichte.md)
+24. [Мамы разные нужны, мамы разные важны!]((https://github.com/Zelenina33/our-stories/blob/master/stories/Zelenina33.md)
 
 ## Призы
 
