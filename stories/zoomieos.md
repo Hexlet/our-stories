@@ -54,7 +54,7 @@ beleksprint.by . Просили использовать PageBuilde'r, что я
 - [Сайт добавок](http://euroin.by)
 - [Сайт тура-агента](http://tikitour.by)
 
-**Здесь должна быть обязательная ссылка на ваш файл в вашем форке вида https://github.com/Hexlet-Source/our-stories/blob/master/stories/zoomieos.md**
+https://github.com/ZoomieOS/our-stories/blob/master/stories/zoomieos.md
 
 ---
 
