@@ -1,6 +1,6 @@
 # Как не потерять 10 лет своей жизни
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/daryalaktionova/our-stories/blob/master/stories/laktionova.md) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/daryalaktionova/our-stories/blob/patch-1/stories/laktionova.md) и поставьте Star в верхнем правом углу. Спасибо!
 
 ---
 
@@ -38,8 +38,8 @@
 
 [Мой вк](https://vk.com/laktionovadarya)
 
-**https://github.com/daryalaktionova/our-stories/blob/master/stories/laktionova.md**
+**https://github.com/daryalaktionova/our-stories/blob/patch-1/stories/laktionova.md**
 
 ---
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/daryalaktionova/our-stories/blob/master/stories/laktionova.md) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/daryalaktionova/our-stories/blob/patch-1/stories/laktionova.md) и поставьте Star в верхнем правом углу. Спасибо!
