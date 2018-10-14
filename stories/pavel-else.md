@@ -73,4 +73,8 @@ Hello, World!
  
 **Просите, и дано будет вам. Ищите, и найдете. Стучите, и отворят вам (с)**
 
+https://ru.hexlet.io/u/-el-se
+https://vk.com/pave1se
+https://github.com/pavel-else
+
 https://github.com/pavel-else/our-stories/blob/master/stories/pavel-else.md
