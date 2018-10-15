@@ -1,3 +1,27 @@
+# Через тернии
+
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/pavel-else/our-stories/blob/master/stories/pavel-else.md) и поставьте Star в верхнем правом углу. Спасибо!
+
+---
+
+Не удаляйте блок выше и такой же блок в самом низу страницы! 
+Ссылка в тексте "мой репозиторий" должна быть заменена на вашу.
+
+Здесь напишите текст истории. Не менее 2000 символов. 
+
+- Делите текст на абзацы, чтобы его было удобно читать.
+- Можно использовать фотки. Они добавят «личности» и теплоты.
+- Грамотный текст вызывает доверие. Используйте [спеллер](https://tech.yandex.ru/speller/). 
+
+ОПЦИОНАЛЬНО: ссылки на сайты или ваши профили в соц. сетях.
+- [link1](link1)
+- [link2](link2)
+- [link3](link3)
+
+**Здесь должна быть обязательная ссылка на ваш файл в вашем форке вида https://github.com/USERNAME/our-stories/blob/master/stories/TEMPLATE.md**
+
+
+
 **Как я пришел к программированию** 
 
 Hello, World! 
@@ -80,3 +104,6 @@ https://vk.com/pave1se
 https://github.com/pavel-else 
 
 https://github.com/pavel-else/our-stories/blob/master/stories/pavel-else.md
+---
+
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/pavel-else/our-stories/blob/master/stories/pavel-else.md) и поставьте Star в верхнем правом углу. Спасибо!
