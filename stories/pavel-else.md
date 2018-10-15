@@ -1,14 +1,15 @@
-# Через тернии. К звездам
+# Через тернии
 
 ### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/pavel-else/our-stories/blob/master/stories/pavel-else.md) и поставьте Star в верхнем правом углу. Спасибо!
 
 ---
 
 **Как я пришел к программированию** 
-!["how"](http://lfly.ru/wp-content/uploads/2017/03/4d09bc361aa843d2b1f85e46811a4c4b.png)
 
 Hello, World! 
 Вот моя история. 
+!["how"](http://lfly.ru/wp-content/uploads/2017/03/4d09bc361aa843d2b1f85e46811a4c4b.png)
+
  
 В жизни каждого человека бывают такие моменты, которые определяют всю его дальнейшую судьбу. 
  
@@ -76,9 +77,9 @@ Hello, World!
 Не знаю насколько продолжительным будет этот этап в моей жизни, не знаю как повернется дальше. Мне бы хотелось чего-то более серьезного, работы в команде, пулл-реквестов, мозговых штурмов. Не собираюсь останавливаться на достигнутом. Думаю, что это только очередная ступенька. 
  
 
-- ["hexlet"](https://ru.hexlet.io/u/-el-se)
-- ["vk"](https://vk.com/pave1se)
-- ["github"](https://github.com/pavel-else )
+- [hexlet](https://ru.hexlet.io/u/-el-se)
+- [vk](https://vk.com/pave1se)
+- [github](https://github.com/pavel-else )
 
 
 https://github.com/pavel-else/our-stories/blob/master/stories/pavel-else.md
