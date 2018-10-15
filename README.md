@@ -5,7 +5,7 @@
 Вы ищете работу? Возможно, свою первую работу программистом? Напишите интересную историю о том, как и почему вы стали изучать программирование, как выглядит ваш процесс обучения и роста. Авторы трёх историй, набравших больше всего «старов» (звёздочек) на Гитхабе, получат призы! [Перейти на красочную промо-страницу конкурса →](http://mystory.hexlet.io/)
 
 ## Истории
-(последнее обновление 12.10.2018, 11:30)
+(последнее обновление 15.10.2018, 14:10)
 1. [Моя Санта-Барбара](https://github.com/solncebro/our-stories/blob/master/stories/AaronWinnov.md)
 2. [Обучение программированию после 50-ти](https://github.com/AnatolMeshalkin/our-stories/blob/master/stories/AnatolMeshalkin.md)
 3. [Почему работа программиста более привлекательна чем работа специалиста по информационной безопасности (субъективно)](https://github.com/kitXIII/our-stories/blob/master/stories/KitStory.md)
@@ -32,6 +32,11 @@
 24. [Мамы разные нужны, мамы разные важны!](https://github.com/Zelenina33/our-stories/blob/master/stories/Zelenina33.md)
 25. [Дорогу осилит идущий!](https://github.com/maximoto83/our-stories/blob/master/stories/myroad.md)
 26. [Быть или-не быть](https://github.com/natawik/our-stories/blob/master/stories/tobe-or-not.md)
+27. [Меня обманула "Пина Колада", теперь моя жизнь - tabula rasa.](https://github.com/arti911/our-stories/blob/master/stories/myHistor.md)
+28. [История возвращения на Hexlet](https://github.com/JuliaStrelkova/our-stories/blob/my-story/stories/My_story_of_return_to_Hexlet.md)
+29. [Из научного сотрудника во frontend-разработчика](https://github.com/kotevidze/our-stories/blob/master/stories/from_scientist_to_js_developer.md)
+30. [ШОК, ученые открыли...](https://github.com/oksanaduga/our-stories/blob/master/stories/oksanaduga.md)
+31. [Как не потерять 10 лет своей жизни](https://github.com/daryalaktionova/our-stories/blob/patch-1/stories/laktionova.md)
 
 ## Призы
 
