@@ -23,7 +23,7 @@
 - [VK](https://vk.com/id137789642)
 - [facebook](https://www.facebook.com/profile.php?id=100008574990512)
 
-**Здесь должна быть обязательная ссылка на ваш файл в вашем форке вида [https://github.com/shmel115/our-stories/blob/master/stories/good support.md](https://github.com/shmel115/our-stories/blob/master/stories/good support.md)**
+**Здесь должна быть обязательная ссылка на ваш файл в вашем форке вида https://github.com/shmel115/our-stories/blob/master/stories/good_support.md**
 
 ---
 
