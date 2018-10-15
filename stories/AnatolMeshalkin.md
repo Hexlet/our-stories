@@ -1,6 +1,6 @@
 # Обучение программированию после 50-ти
 
-![AnatolMeshalkin](https://github.com/AnatolMeshalkin/our-stories/blob/master/stories/images/in_moskow.jpeg)
+![AnatolMeshalkin](https://github.com/Hexlet/our-stories/blob/master/stories/images/in_moskow.jpeg)
 
 ### Это история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — поставьте Star в верхнем правом углу. Спасибо!
 
