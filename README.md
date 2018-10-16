@@ -39,7 +39,6 @@
 31. [Как не потерять 10 лет своей жизни](https://github.com/daryalaktionova/our-stories/blob/patch-1/stories/laktionova.md)
 32. [Через тернии](https://github.com/pavel-else/our-stories/blob/master/stories/pavel-else.md)
 33. [Важно не только желание но и хорошая поддержка](https://github.com/shmel115/our-stories/blob/master/stories/good_support.md)
-34. [Где-то 7 лет назад!](https://github.com/ZoomieOS/our-stories/blob/master/stories/zoomieos.md)
 
 ## Призы
 
