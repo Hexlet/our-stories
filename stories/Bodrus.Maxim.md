@@ -1,6 +1,6 @@
 # Как оно в 35 снова за парту.
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/Bodrus/our-stories/new/master/stories/Bodrus.Maxim.md) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/Bodrus/our-stories/blob/master/stories/Bodrus.Maxim.md) и поставьте Star в верхнем правом углу. Спасибо!
 ---
 
 
@@ -78,4 +78,4 @@
 
 
 ---
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/Bodrus/our-stories/new/master/stories/Bodrus.Maxim.md) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/Bodrus/our-stories/blob/master/stories/Bodrus.Maxim.md) и поставьте Star в верхнем правом углу. Спасибо!
