@@ -48,7 +48,7 @@
 - [Профиль VK](https://vk.com/id20013813)
 - [Профиль Facebook](https://www.facebook.com/NastyaFaizulina)
 
-[https://github.com/USERNAME/our-stories/blob/master/stories/recursive_learning.md](https://github.com/USERNAME/our-stories/blob/master/stories/recursive_learning.md)
+[https://github.com/just-fy/our-stories/blob/master/stories/recursive_learning.md](https://github.com/USERNAME/our-stories/blob/master/stories/recursive_learning.md)
 
 ---
 
