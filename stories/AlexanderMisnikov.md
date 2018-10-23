@@ -1,7 +1,7 @@
 Никогда не поздно начать заниматься тем, что действительно любишь
 =======================================
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/Hexlet/our-stories) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/AMisnikov/our-stories/edit/master/stories/AlexanderMisnikov.md) и поставьте Star в верхнем правом углу. Спасибо!
 
 ---
 
@@ -23,8 +23,10 @@
 
 В общем, мне нужно структурированное, качественное и последовательное обучение и за этим я пришел в Хекслет. И Вы, кто проголосует за мою историю, можете помочь мне воплотить свою мечту и изменить свою жизнь.
 
+**Ссылка на мой репозиторий**
+
 **https://github.com/AMisnikov/our-stories/new/master/stories/AlexanderMisnikov.md**
 
 ---
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/Hexlet/our-stories) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/AMisnikov/our-stories/edit/master/stories/AlexanderMisnikov.md) и поставьте Star в верхнем правом углу. Спасибо!
