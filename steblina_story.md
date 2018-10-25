@@ -1,6 +1,6 @@
 # Ты же девочка!
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/bonbuvi/our-stories/blob/master/stories/steblina_story.md) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/bonbuvi/our-stories/blob/master/steblina_story.md) и поставьте Star в верхнем правом углу. Спасибо!
 
 ---
 Вы помните, кем хотели стать в детстве? Для нас не было никаких преград: в своих мечтах все становились летчиками, космонавтами, полицейскими, пожарными и докторами. Дети еще не знают, что у каждой профессии есть путь становления: образование, опыт, годы практики. И тем более не знают, что столкнутся с задачей посложнее, чем поступление в университет: придется бороться со стереотипами и своими страхами.
@@ -33,8 +33,8 @@
 - [Linkedin](https://www.linkedin.com/in/victoria-steblina-75503826/)
 - [Рассылка](https://teletype.in/@steblinavv/Bk52HAHr7)
 
-**Мой репозиторий: https://github.com/bonbuvi/our-stories/blob/master/stories/steblina_story.md**
+**Мой репозиторий: https://github.com/bonbuvi/our-stories/blob/master/steblina_story.md**
 
 ---
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/bonbuvi/our-stories/blob/master/stories/steblina_story.md) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/bonbuvi/our-stories/blob/master/steblina_story.md) и поставьте Star в верхнем правом углу. Спасибо!
