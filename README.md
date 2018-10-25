@@ -42,6 +42,7 @@
 34. [Как стать программистом, когда тебе за 30 у тебя есть жена, ребенок и ипотека](https://github.com/demshin/our-stories/blob/master/stories/demshin.md)
 35. [Как оно в 35 снова за парту](https://github.com/Bodrus/our-stories/blob/master/stories/Bodrus.Maxim.md)
 36. [Recursive Learning](https://github.com/just-fy/our-stories/blob/master/stories/recursive_learning.md)
+37. [⭐️ Про университет, менторов, преследования и зарплату 300к в секунду](https://github.com/D3rty/our-stories/blob/master/stories/%E2%AD%90%EF%B8%8FD3rty_story.md)
 
 ## Призы
 
