@@ -55,7 +55,7 @@
 
 Спасибо что дочитали)))
 
-https://github.com/TaKo13/our-stories/blob/master/stories/myStory.md.md
+https://github.com/TaKo13/our-stories/blob/master/stories/myStory.md
 
 
 ### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/TaKo13/our-stories/stories/myStory.md) и поставьте Star в верхнем правом углу. Спасибо!
