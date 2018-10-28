@@ -1,6 +1,6 @@
 # Быдлокод
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий]( https://github.com/turchinskki/our-stories/blob/master/stories/bydlo.md) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/turchinskki/our-stories/blob/master/stories/Bydlo.md) и поставьте Star в верхнем правом углу. Спасибо!
 
 ---
 
@@ -51,8 +51,8 @@
 Уверен, что пока я пишу свой быдлокод.С каждой новой выученной темой хочется переписать свой старый код,а иногда даже и переписать свою жизнь.Если кому интересно, то Светлану К. так и не встретил. Пусть остается в прошлом как образ невероятной мотивации. Надеюсь, что это не конец истории, а начало нечто большего.
  
 - 
- https://github.com/turchinskki/our-stories/blob/master/stories/bydlo.md
+https://github.com/turchinskki/our-stories/blob/master/stories/Bydlo.md
 
 ---
 
-### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — посетите [мой репозиторий](https://github.com/Hexlet/our-stories) и поставьте Star в верхнем правом углу. Спасибо!
+### Эта история участвует в [конкурсе](http://mystory.hexlet.io/) от [Хекслета](https://ru.hexlet.io/). Если вам понравилось — поставьте Star в верхнем правом углу. Спасибо!
