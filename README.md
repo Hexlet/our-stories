@@ -5,7 +5,7 @@
 Вы ищете работу? Возможно, свою первую работу программистом? Напишите интересную историю о том, как и почему вы стали изучать программирование, как выглядит ваш процесс обучения и роста. Авторы трёх историй, набравших больше всего «старов» (звёздочек) на Гитхабе, получат призы! [Перейти на красочную промо-страницу конкурса →](http://mystory.hexlet.io/)
 
 ## Истории
-(последнее обновление 29.10.2018, 11:23)
+(последнее обновление 30.10.2018, 14:50)
 1. [Моя Санта-Барбара](https://github.com/solncebro/our-stories/blob/master/stories/AaronWinnov.md)
 2. [Обучение программированию после 50-ти](https://github.com/AnatolMeshalkin/our-stories/blob/master/stories/AnatolMeshalkin.md)
 3. [Почему работа программиста более привлекательна чем работа специалиста по информационной безопасности (субъективно)](https://github.com/kitXIII/our-stories/blob/master/stories/KitStory.md)
@@ -47,6 +47,7 @@
 38. [Черный экран или “Как бывший секретарь изучает web разработку”](https://github.com/TaKo13/our-stories/blob/master/stories/myStory.md)
 39. [Быдлокод](https://github.com/turchinskki/our-stories/blob/master/stories/Bydlo.md)
 30. [Орлята учатся летать (программировать)!](https://github.com/Aliraea/our-stories/blob/master/stories/Aliraea.md)
+31. [В программировании только мальчики](https://github.com/Murlika/our-stories/blob/master/stories/boys_only.md)
 
 ## Призы
 
