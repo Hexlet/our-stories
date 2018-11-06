@@ -198,7 +198,7 @@
 И единое информационное поле, Свободное и Доступное является гарантией этого.
 Гарантией мира во всём Мире, благополучия и счастья всех нас.
 
-- [Моё резюме в профиле на гитхаб](https://gitgub.com/dandgerson/resume)
+- [Моё резюме в профиле на гитхаб](https://github.com/dandgerson/resume)
 
 **Здесь обязательная ссылка на мой файл в моём форке вида https://github.com/dandgerson/our-stories/blob/master/stories/When_the_World_will_not_be_able_to_stay_away.md**
 
